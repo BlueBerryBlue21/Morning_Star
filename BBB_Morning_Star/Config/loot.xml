@@ -1,0 +1,10 @@
+<configs>
+
+<!-- Morgensten Parts finden -->
+<append xpath="/lootcontainers/lootgroup[@name='groupWeapons_MeleeParts' or @name='weaponParts']">
+
+	<item name="meleeWpnClubT3MorgenSternClubParts" count="2,5"/>
+
+</append>
+
+</configs>

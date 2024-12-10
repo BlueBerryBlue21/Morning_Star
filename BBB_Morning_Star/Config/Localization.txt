@@ -1,0 +1,5 @@
+key,English,German
+
+meleeWpnClubT3MorgenSternClub,"Morningstar","Morgenstern"
+meleeWpnClubT3MorgenSternClubDesc,"Morningstar are very durable and hard-hitting.\n\nRepair with a Repair Kit.\nScrap to Morningstar Parts","Morgenstern sind sehr widerstandsfähig und haben ganz schön Wumms.\n\nKann mit einem Reparaturkit repariert werden.\nKann zu Morgensten Patrs zerlegt werden"
+meleeWpnClubT3MorgenSternClubParts,"Morningstar Parts","Morgenstern,Partes"
